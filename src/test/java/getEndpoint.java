@@ -1,6 +1,6 @@
 public class getEndpoint {
 
     public void test1(){
-        System.out.println("b1");
+        System.out.println("b2");
     }
 }
